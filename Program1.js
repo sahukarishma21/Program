@@ -17,3 +17,4 @@ function reverseWord(word) {
 let inputSentence = "This is a sunny day";
 let reversedSentence = reverseWordsInSentence(inputSentence);
 console.log(reversedSentence);
+
