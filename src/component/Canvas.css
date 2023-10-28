@@ -1,0 +1,24 @@
+/* CanvasComponent.css */
+#canvas {
+  margin: 10px auto;
+  display: block;
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+  text-decoration: none;
+  color: #007BFF;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.text {
+  font-weight: bold;
+  font-size: larger;
+  font-weight: 900;
+}
